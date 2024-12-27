@@ -39,5 +39,5 @@
 * The result was divided by 15 to obtain the final sentiment value for each student.
 * If the value was ≤ 0.12, the student was considered confident with a strong foundation in mathematics; otherwise, they were deemed under-confident with a weaker base.
 
-[Sentiment Analysis on Response PDF Presentation](https://docs.google.com/presentation/d/1mwC9IJrRv64D9XEIv-Qfn6G4TLHn-0Tt/edit?usp=sharing&ouid=113347004727061078385&rtpof=true&sd=true)
+[Sentiment Analysis on Response PDF Presentation](https://www.canva.com/design/DAGCxWiSnes/oFEHxChZOMB0XI7Ow3b4kQ/view?utm_content=DAGCxWiSnes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h338195a6d5)
 
